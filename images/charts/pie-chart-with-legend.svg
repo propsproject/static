@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="730" height="308" viewBox="0 0 730 308">
+    <g fill="none" fill-rule="evenodd" transform="translate(0 1)">
+        <g fill-rule="nonzero" stroke="#FFF" stroke-linejoin="round" stroke-width="2">
+            <path fill="#180CB3" d="M365.03 295.5c-63.866.013-120.486-41.078-140.272-101.802-19.787-60.724 1.754-127.284 53.367-164.9L365 148l.03 147.5z"/>
+            <path fill="#0984FF" d="M278.245 28.711A147.5 147.5 0 0 1 364.883.5L365 148 278.245 28.711z"/>
+            <path fill="#FF9E46" d="M365.03 295.5a147.5 147.5 0 0 0 147.192-156.552L365 148l.03 147.5z"/>
+            <path fill="#FFCA3C" d="M512.213 138.8a147.5 147.5 0 0 0-6.898-36.275L365 148l147.213-9.2z"/>
+            <path fill="#34C3FF" d="M505.27 102.385C485.536 41.701 429.017.59 365.205.5L365 148l140.27-45.615z"/>
+        </g>
+        <path stroke="#2800B7" stroke-linecap="square" stroke-width="2" d="M240.34 183H52.6M240.34 186v-6M52.6 186v-6"/>
+        <path stroke="#00C5FF" stroke-linecap="square" stroke-width="2" d="M669 53.5H424.46M669 56.5v-6M424.46 56.5v-6"/>
+        <path stroke="#FFC81C" stroke-linecap="square" stroke-width="2" d="M669 122.5H472.896M669 125.5v-6M472.896 125.5v-6"/>
+        <text fill="#000" font-family=".SFNSDisplay, .SF NS Display" font-size="20">
+            <tspan x="687.932" y="62">20%</tspan>
+        </text>
+        <text fill="#000" font-family=".SFNSDisplay, .SF NS Display" font-size="20">
+            <tspan x="700.291" y="131">4%</tspan>
+        </text>
+        <text fill="#000" font-family=".SFNSDisplay, .SF NS Display" font-size="20">
+            <tspan x="0" y="192">40%</tspan>
+        </text>
+        <text fill="#474747" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+            <tspan x="0" y="213">Rewards for</tspan> <tspan x="0" y="233">contributors to platform</tspan>
+        </text>
+        <path stroke="#0084FF" stroke-linecap="square" stroke-width="2" d="M317.1 18H52.51M317.1 21v-6M52.51 21v-6"/>
+        <text fill="#000" font-family=".SFNSDisplay, .SF NS Display" font-size="20">
+            <tspan x="0" y="25">10%</tspan>
+        </text>
+        <text fill="#474747" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+            <tspan x="0" y="48">Developer grants, </tspan> <tspan x="0" y="68">ecosystem investments &amp; </tspan> <tspan x="0" y="88">infrastructure</tspan>
+        </text>
+        <text fill="#474747" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+            <tspan x="600.064" y="154">Advisors, subject to </tspan> <tspan x="611.584" y="174">vesting schedules</tspan>
+        </text>
+        <text fill="#474747" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+            <tspan x="605.248" y="82">Token Distribution</tspan> <tspan x="692" y="102">Event</tspan>
+        </text>
+        <path stroke="#FF9A39" stroke-linecap="square" stroke-width="2" d="M669 220.5H424.465M669 223.5v-6M424.465 223.5v-6"/>
+        <text fill="#000" font-family=".SFNSDisplay, .SF NS Display" font-size="20">
+            <tspan x="688.51" y="230">26%</tspan>
+        </text>
+        <text fill="#474747" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16">
+            <tspan x="535.12" y="263">Company, Founders &amp; Future </tspan> <tspan x="583.312" y="283">Employees, subject to </tspan> <tspan x="558.512" y="303">vesting schedule (3 years) </tspan>
+        </text>
+        <circle cx="365" cy="148" r="60" fill="#F6F9FC"/>
+    </g>
+</svg>
